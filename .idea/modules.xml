@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hafta1Examples/Hafta1Examples.iml" filepath="$PROJECT_DIR$/Hafta1Examples/Hafta1Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta1ExamplesIkinciGun/Hafta1ExamplesIkinciGun.iml" filepath="$PROJECT_DIR$/Hafta1ExamplesIkinciGun/Hafta1ExamplesIkinciGun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kiz-kardes-java-backend-akademisi.iml" filepath="$PROJECT_DIR$/.idea/kiz-kardes-java-backend-akademisi.iml" />
+    </modules>
+  </component>
+</project>
